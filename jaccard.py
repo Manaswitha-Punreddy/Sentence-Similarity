@@ -1,7 +1,9 @@
 import nltk
 from nltk.corpus import wordnet
 
-# Program to find the Jaccard similarity between two sentences
+""""
+Program to find the Jaccard similarity between two sentences
+"""
 
 
 def pos_map(pos):
